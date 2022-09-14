@@ -7,3 +7,4 @@
 
 - :computer: 目前主要学习方向为Golang后端开发,同时还了解C、Python和Java
 - :rocket: 你可以通过aprilnull@163.com联系我
+- ⚡欢迎访问我的个人博客https://blog.aprilnull.cn/
